@@ -2,14 +2,14 @@
 
 ## How to use
 
-```
+```bash
 $ npm install
 ```
 
 ## To run client
 
-```
-node index.js
+```bash
+$ node index.js
 ```
 
 A QRCode shows up in terminal. Scan this QR with phone to sync.
