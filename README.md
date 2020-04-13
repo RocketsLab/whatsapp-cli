@@ -2,11 +2,15 @@
 
 ## How to use
 
-`$ npm install`
+```
+$ npm install
+```
 
 ## To run client
 
-`node index.js`
+```
+node index.js
+```
 
 A QRCode shows up in terminal. Scan this QR with phone to sync.
 
